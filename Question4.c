@@ -9,6 +9,6 @@ int main()
     circumference = 2 * 3.14 * radius; // Using 3.14
     area = 3.14 *radius *radius;
     printf("Circumference of the circle: %d\n", circumference);
-    printf("ARea of circle:%d", area);
+    printf("Area of circle:%d", area);
     return 0;
 }
