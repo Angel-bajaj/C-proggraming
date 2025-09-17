@@ -21,6 +21,7 @@ int main()
 	base = p * pow((1+ r/100), t);
 	//exp = n * t;
 	c_int = base - p;
+	
 	printf("Simple Interest:%d\nCompound interest:%.2f", s_int, c_int);
 	return 0;
-	}
+}
