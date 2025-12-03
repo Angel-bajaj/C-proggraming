@@ -12,7 +12,7 @@ Displays employee data read from file.
 #include <string.h>
 
 // Q147: Write and read employees in a binary file
-
+  
 struct Employee {
     char name[50];
     int id;
